@@ -1,57 +1,63 @@
-# 1 Header
+# \# 1 Header
 
 # h1
-
 ## h2
-
 ### h3
-
 #### h4
-
 ##### h5
-
 ###### h6
 
 ---
-# 2 List
+---
+
+# \# 2 List
 
 * Line 1
 * Line 2
 	+ Line 3
+* Under Line
 	+ Line 4
 		- Line 5
 		- Line 6
 
 1. Line 1
 2. Line 2
-	2.1 Line 3
-	2.2 Line 4
----
-# 3 Line
-
-Text 1
-
-----
-
-Text 2
-
-****
-
-Text 3
-
-===
+	1. Line 3
+	2. Line 4
+3. Line 5
 
 ---
+---
 
-# 4 Paragraph
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+# \# 3 Line
+
+Text1
+
+- - -
+
+Text2
+
+_ _ _
+
+Text3
+
+* * * 
+
+---
+---
+
+# \# 4 Paragraph
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br>
 Consequuntur eius in labore quidem, sequi suscipit!
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 ---
+---
 
-# 5 Font Style
+# \# 5 Font Style
+
 *Italic*
 _Italic2_
 **Bold**
@@ -60,9 +66,11 @@ __Bold2__
 ___Bold italic2___
 
 ---
+---
 
-# 6 Code 
-```
+# \# 6 Code
+
+```css
 *{
     margin: 0;
 }
@@ -71,43 +79,51 @@ ___Bold italic2___
 `print 10`
 
 ---
+---
 
-# 7 Quote
+# 7 \# Quote
 
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur eius in labore quidem, sequi suscipit!
 
+> First level
+>> Second level
+
+---
 ---
 
-# 8 Link
+# 8 \# Link
 
-===
+### Type 1
 
-### 1 Type
 Lorem ipsum [dolor][Teg1], sit amet consectetur adipisicing [elit][Teg2]. Ipsum, autem!
 
-[Teg1][google.com/1]
+[Teg1]: google.com/1 "Obout dolor"
+[Teg2]: google.com/2 "Obout elti"
 
-[Teg2][google.com/2]
-
-===
-
-### 2 Type
+### Type 2
 
 Lorem ipsum [dolor](google.com/1 "Obout dolor") sit amet consectetur adipisicing [elit](google.com/2 "Obout elti"). Voluptate, maxime?
 
----
+### Type 3 
 
-# 9 Table
-
-	head1	|	head2
-------------|--------:
-text1		|	123
-text2		|	456
-text3		|	789
+<mail@forget.net>
 
 ---
+---
 
-# 10 Spec
+# 9 \# Table
+
+|**head1**|**head2**|*head*|
+|-|:-:|-:|
+|text1|123|[Link](<google.com/1>)|
+|text2|123|[Link](<google.com/2>)|
+|text3|123|[Link](<google.com/3>)|
+|text4|123|[Link](<google.com/4>)|
+
+---
+---
+
+# 10 \# Spec
 
 Lorem, ipsum dolor. \> Lorem, ipsum.
 
