@@ -1,4 +1,4 @@
-# \# 1 Header
+# \# 1 Header 
 
 # h1
 ## h2
@@ -81,7 +81,7 @@ ___Bold italic2___
 ---
 ---
 
-# 7 \# Quote
+# \# 7 Quote
 
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur eius in labore quidem, sequi suscipit!
 
@@ -91,7 +91,7 @@ ___Bold italic2___
 ---
 ---
 
-# 8 \# Link
+# \# 8 Link
 
 ### Type 1
 
@@ -111,7 +111,7 @@ Lorem ipsum [dolor](google.com/1 "Obout dolor") sit amet consectetur adipisicing
 ---
 ---
 
-# 9 \# Table
+# \# 9 Table
 
 |**head1**|**head2**|*head*|
 |-|:-:|-:|
@@ -123,7 +123,7 @@ Lorem ipsum [dolor](google.com/1 "Obout dolor") sit amet consectetur adipisicing
 ---
 ---
 
-# 10 \# Spec
+# \# 10 Spec
 
 Lorem, ipsum dolor. \> Lorem, ipsum.
 
