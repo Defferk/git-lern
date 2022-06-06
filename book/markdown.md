@@ -135,6 +135,6 @@ Text 1 \* Text2
 
 ![My avatar](https://avatars.githubusercontent.com/u/77570004?s=400&u=a3e25391fccf57173e2a4ffdf81568432a3cc93c&v=4 "My avatar")
 
-![My avatar_2](https://drive.google.com/file/d/13uLCW_Gp_VdXM4IwDMiqCBTb92oV79Ud/view?usp=sharing "My avatar_new")
+![My avatar_2](https://github.com/Defferk/git-lern/raw/main/1SmallLogoBW-8.png "My avatar_new")
 
 test text
